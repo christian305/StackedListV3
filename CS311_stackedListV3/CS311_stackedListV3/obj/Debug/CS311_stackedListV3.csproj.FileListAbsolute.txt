@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\CS311_stackedListV3\CS311_stackedListV3\bin\Debug\CS311_stackedListV3.exe.config
+C:\Users\Christian\source\repos\CS311_stackedListV3\CS311_stackedListV3\bin\Debug\CS311_stackedListV3.exe
+C:\Users\Christian\source\repos\CS311_stackedListV3\CS311_stackedListV3\bin\Debug\CS311_stackedListV3.pdb
+C:\Users\Christian\source\repos\CS311_stackedListV3\CS311_stackedListV3\obj\Debug\CS311_stackedListV3.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\CS311_stackedListV3\CS311_stackedListV3\obj\Debug\CS311_stackedListV3.exe
+C:\Users\Christian\source\repos\CS311_stackedListV3\CS311_stackedListV3\obj\Debug\CS311_stackedListV3.pdb
